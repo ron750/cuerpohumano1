@@ -1,0 +1,13 @@
+h1{
+    text-align: center;
+    text-decoration: underline overline;
+    color: crimson;
+    
+    
+}
+p{
+    text-shadow: 1px 1px 1px #F0FFF0
+}
+audio{
+    border: 5px dotted blue;
+}

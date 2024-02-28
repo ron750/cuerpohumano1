@@ -1,0 +1,25 @@
+h1{
+    text-align: center;
+    color: #e63946;
+    text-decoration: underline overline;
+    text-shadow: 2px 2px gainsboro;
+    
+}
+.caja{
+    padding: 20px;
+    color: black;
+    width: auto;
+    height: auto;
+    float:left; 
+    text-align: center;
+    font-size: 25px;
+   
+}
+.audio{
+    position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,150% );
+    border: 5px dotted blue;
+    
+}
